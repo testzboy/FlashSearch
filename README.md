@@ -8,6 +8,13 @@ FlashSearch 是一个用户友好的多平台资产测绘客户端，主要由 t
 
 当前版本：v1.0
 
+java版本：java8+
+
+启动方式（请使用编码启动）：
+```
+java -Dfile.encoding=UTF-8 -jar FlashSearch.jar
+```
+
 ![image](https://github.com/user-attachments/assets/f92700cf-6790-411c-b046-138fb0094d35)
 
 支持资产测绘平台：
