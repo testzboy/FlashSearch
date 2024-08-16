@@ -4,6 +4,8 @@
 
 ![image](https://github.com/user-attachments/assets/5e816d9f-96f8-44bb-9cee-2f1c6b44e8a6)
 
+工具好用的话麻烦点击右上角 Star，关注项目最新动态。
+
 FlashSearch 是一个用户友好的多平台资产测绘客户端，主要由 testzboy 维护。 利用强大的互联网搜索引擎，将众多常用的API封装到简洁的UI中，让网络安全专业人士更容易在目标网站上寻找漏洞。 凭借其开箱即用的功能，FlashSearch 简化了搜索过程，帮助渗透测试人员快速获取所需信息。
 
 当前版本：v1.0
