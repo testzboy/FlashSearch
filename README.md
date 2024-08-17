@@ -12,7 +12,7 @@ FlashSearch 是一个用户友好的多平台资产测绘客户端，主要由 t
 
 java版本：java8+
 
-启动方式（请使用编码启动）：
+如出现乱码请使用编码启动：
 ```
 java -Dfile.encoding=UTF-8 -jar FlashSearch.jar
 ```
