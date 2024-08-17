@@ -1,4 +1,4 @@
-# FlashSearch
+# FlashSearch 闪电搜索
 
 # 简介
 
