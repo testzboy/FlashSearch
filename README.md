@@ -17,7 +17,8 @@ java使用版本：java8+
 java -Dfile.encoding=UTF-8 -jar FlashSearch.jar
 ```
 
-![image](https://github.com/user-attachments/assets/f92700cf-6790-411c-b046-138fb0094d35)
+![image](https://github.com/user-attachments/assets/11e6145f-43eb-49da-a33a-d3e3f4ce3922)
+
 
 支持资产测绘平台：
 
@@ -25,7 +26,7 @@ java -Dfile.encoding=UTF-8 -jar FlashSearch.jar
 - [x] hunter
 - [x] quake
 - [x] 零零信安
-- [ ] Zoomeye （暂无可测试账号）
+- [x] Zoomeye
 
 # 功能
 
@@ -68,15 +69,9 @@ Quake：
 
 功能截图：
 
-![image](https://github.com/user-attachments/assets/a05bac30-919c-4ed8-a2e5-12004d28f18d)
+![image](https://github.com/user-attachments/assets/d67e44f2-4cf7-42f6-bb56-34dbbb0b3ba6)
 
-![image](https://github.com/user-attachments/assets/d623662f-7a4a-4f71-b964-b5ad38c00a86)
 
-![image](https://github.com/user-attachments/assets/5c454cff-d4d3-4840-81e6-aa6861b68014)
-
-![image](https://github.com/user-attachments/assets/ba00f6a2-e2e3-4531-93b3-6ee61cefec15)
-
-![image](https://github.com/user-attachments/assets/ee11faa7-25c6-453c-96e1-8fc627abab16)
-
+![image](https://github.com/user-attachments/assets/800d2c85-c9ff-47ba-85f3-bffc124ac458)
 
 
